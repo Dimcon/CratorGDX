@@ -29,7 +29,7 @@ public class GameView implements ApplicationListener, InputProcessor {
     public void create() {
         batch = new SpriteBatch();
         //prefs is a way to store small bits of data when the app is closed.
-        //It is passed to GV (GameView) where is is used.
+        //It is passed to GV (GameView) where it is used.
         prefs = Gdx.app.getPreferences("my-preferences");
         GV = new GameingView();
         ScreenWidth = Gdx.graphics.getWidth();
