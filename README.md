@@ -1,7 +1,6 @@
 ## Crator
 ###### Project by:   
 Daimon Sewell (Dimcon)  
-(Devs, Add your name here)
 
 Looking at flappy bird, I was amazed purely by the simplicity of the game.I kept thinking how simple it must have been to create, and so with no prior knowledge of game develoopment and a very very limited knowledge of java - I gave it a try. 
 
